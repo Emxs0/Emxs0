@@ -27,6 +27,21 @@ I am completely passionate about programming, graphs and also very interested in
 ![imagen](https://i.pinimg.com/236x/30/ec/63/30ec63c8bcb56587cb9e36d93af35ea6.jpg)
 
 
+  <a href="https://twitter.com/AkshatTamraka12">
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
+  </a>
+
+</p>
+
+<hr/>
+
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+<p align="center">
+
+
 ----
 Credit: [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
 

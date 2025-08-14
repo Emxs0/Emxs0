@@ -9,7 +9,7 @@
 
 <body>
     <div align="center">
-        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
+        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="Emxs0 gif">
     </div>
     <div align ="center">
         <p>

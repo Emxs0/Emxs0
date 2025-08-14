@@ -24,7 +24,7 @@ I am completely passionate about programming, graphs and also very interested in
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Sklah go#0769 </a>
 
-![imagen](https://i.pinimg.com/originals/05/0c/39/050c390fe598f331fef9c1cf05be13af.jpg)
+![imagen](https://i.pinimg.com/236x/30/ec/63/30ec63c8bcb56587cb9e36d93af35ea6.jpg)
 
 
 ----

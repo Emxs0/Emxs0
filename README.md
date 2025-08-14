@@ -27,7 +27,7 @@ I am completely passionate about programming, graphs and also very interested in
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
 
-![imagen](https://i.pinimg.com/736x/58/1c/7a/581c7a5acb74a39805af4136cf8d1a23.jpg)
+![imagen](https://i.pinimg.com/originals/05/0c/39/050c390fe598f331fef9c1cf05be13af.jpg)
 
 
 ----

@@ -32,7 +32,7 @@ I am completely passionate about programming, graphs and also very interested in
 
 
 
-- 🌱 I’m currently learning (In Progress) <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>,
+- 🌱 I’m currently learning (In Process) <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>,
 
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.

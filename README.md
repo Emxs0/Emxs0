@@ -52,6 +52,3 @@ I am completely passionate about programming, graphs and also very interested in
 
 
 ----
-Credit: [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
-
-Last Edited on: 13/08/25
